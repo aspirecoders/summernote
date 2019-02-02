@@ -46,12 +46,14 @@ module.exports = function(grunt) {
       version: '70',
       platform: 'windows 8',
     },
+    /*
     'SL_FIREFOX': {
       base: 'SauceLabs',
       browserName: 'firefox',
       version: 'latest',
       platform: 'windows 8',
     },
+    */
   };
 
   grunt.initConfig({
